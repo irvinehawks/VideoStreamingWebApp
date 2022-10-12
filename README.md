@@ -1,2 +1,2 @@
 # VideoStreamingWebApp
-NestJD + RactSJ video streaming web application
+Project under development
